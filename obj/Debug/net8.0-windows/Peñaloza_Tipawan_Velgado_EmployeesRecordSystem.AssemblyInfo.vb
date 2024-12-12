@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Peñaloza_Tipawan_Velgado_EmployeesRecordSystem"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70e647e506632f765786373c4fe6602eb94e41aa"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Peñaloza_Tipawan_Velgado_EmployeesRecordSystem"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Peñaloza_Tipawan_Velgado_EmployeesRecordSystem"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

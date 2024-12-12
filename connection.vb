@@ -2,42 +2,38 @@
 Imports MySql.Data.MySqlClient
 
 Module connection
-    'Public connStr As String = "server=localhost;database=users_login_db;Uid=Yohan;Pwd=Yohan;port=3307"
-    Public conn As New MySqlConnection()
-    Dim rs As Boolean
-    Dim connStr As String
-    Public Function openconnection() As Boolean
-        Try
-            If conn Is Nothing Then
-                conn = New MySqlConnection
-            End If
 
+    Private connectionString As String = "Server=127.0.0.1;Database=db_employee;Uid=Yohan;Pwd=Yohan"
+
+    Public conn As MySqlConnection = New MySqlConnection(connectionString)
+
+
+
+    Public Function OpenConnection() As MySqlConnection
+
+        Try
             If conn.State = ConnectionState.Closed Then
-                connStr = "server=localhost;database=db_employee;Uid=Yohan;Pwd=Yohan;port=3307;Convert Zero DateTime=True"
-                conn.ConnectionString = connStr
-                conn.Open() ' Open the connection here
+                conn.Open()
+
             End If
-            rs = True
         Catch ex As Exception
-            MsgBox("OPEN ERROR: " & ex.Message)
-            rs = False
+            MsgBox("Error opening connection: " & ex.Message)
         End Try
 
-        Return rs
+        Return conn
     End Function
 
-
-    Public Function closeconnection() As Boolean
+    Public Function CloseConnection() As MySqlConnection
         Try
             If conn.State = ConnectionState.Open Then
                 conn.Close()
+                Console.WriteLine("Connection to database closed.")
             End If
-            rs = True
         Catch ex As Exception
-
-            MsgBox("CLOSE ERROR: " & ex.Message)
-            rs = False
+            MsgBox("Error closing connection: " & ex.Message)
         End Try
-        Return rs
+
+        Return conn
     End Function
+
 End Module

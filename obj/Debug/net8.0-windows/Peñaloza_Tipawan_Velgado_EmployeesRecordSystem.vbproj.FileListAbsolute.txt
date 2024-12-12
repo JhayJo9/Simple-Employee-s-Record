@@ -18,3 +18,4 @@ C:\Users\penal\Desktop\Peñaloza_Tipawan_Velgado_EmployeesRecordSystem\obj\Debug
 C:\Users\penal\Desktop\Peñaloza_Tipawan_Velgado_EmployeesRecordSystem\obj\Debug\net8.0-windows\Peñaloza_Tipawan_Velgado_EmployeesRecordSystem.pdb
 C:\Users\penal\Desktop\Peñaloza_Tipawan_Velgado_EmployeesRecordSystem\obj\Debug\net8.0-windows\Peñaloza_Tipawan_Velgado_EmployeesRecordSystem.genruntimeconfig.cache
 C:\Users\penal\Desktop\Peñaloza_Tipawan_Velgado_EmployeesRecordSystem\obj\Debug\net8.0-windows\ref\Peñaloza_Tipawan_Velgado_EmployeesRecordSystem.dll
+C:\Users\penal\Desktop\Peñaloza_Tipawan_Velgado_EmployeesRecordSystem\obj\Debug\net8.0-windows\Peñaloza_Tipawan_Velgado_EmployeesRecordSystem.sourcelink.json

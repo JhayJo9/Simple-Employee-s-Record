@@ -15,7 +15,7 @@ Public Class Form1
         txtJob.Clear()
         txtPhoneNumber.Clear()
         txtSalary.Clear()
-        'DateTimePicker1.
+
     End Sub
 
     Public Sub InsertData()
@@ -157,12 +157,10 @@ Public Class Form1
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         DisableText()
-        If openconnection() Then
-            ConfigureListView()
+        OpenConnection()
+        ConfigureListView()
             LoadEmployeeData()
-        Else
-            MsgBox("Failed to open database connection.")
-        End If
+
     End Sub
 
     Public Function ValidateInputs() As Boolean
