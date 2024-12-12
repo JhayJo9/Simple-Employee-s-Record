@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\penal\\Desktop\\Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF1584-BB15-4C39-9D30-007897815C02}|Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem.vbproj|c:\\users\\penal\\desktop\\pe\u00F1aloza_tipawan_velgado_employeesrecordsystem\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{74DF1584-BB15-4C39-9D30-007897815C02}|Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem.vbproj|solutionrelative:connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF1584-BB15-4C39-9D30-007897815C02}|Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem.vbproj|c:\\users\\penal\\desktop\\pe\u00F1aloza_tipawan_velgado_employeesrecordsystem\\pe\u00F1aloza_tipawan_velgado_employeesrecordsystem.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{74DF1584-BB15-4C39-9D30-007897815C02}|Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem.vbproj|solutionrelative:pe\u00F1aloza_tipawan_velgado_employeesrecordsystem.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF1584-BB15-4C39-9D30-007897815C02}|Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem.vbproj|c:\\users\\penal\\desktop\\pe\u00F1aloza_tipawan_velgado_employeesrecordsystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{74DF1584-BB15-4C39-9D30-007897815C02}|Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF1584-BB15-4C39-9D30-007897815C02}|Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem.vbproj|c:\\users\\penal\\desktop\\pe\u00F1aloza_tipawan_velgado_employeesrecordsystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{74DF1584-BB15-4C39-9D30-007897815C02}|Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem",
+              "DocumentMoniker": "C:\\Users\\penal\\Desktop\\Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem\\Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem.vbproj",
+              "RelativeDocumentMoniker": "Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem.vbproj",
+              "ToolTip": "C:\\Users\\penal\\Desktop\\Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem\\Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem.vbproj",
+              "RelativeToolTip": "Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-12-12T03:39:47.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "connection.vb",
+              "DocumentMoniker": "C:\\Users\\penal\\Desktop\\Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem\\connection.vb",
+              "RelativeDocumentMoniker": "connection.vb",
+              "ToolTip": "C:\\Users\\penal\\Desktop\\Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem\\connection.vb",
+              "RelativeToolTip": "connection.vb",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-11T04:32:24.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\penal\\Desktop\\Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\penal\\Desktop\\Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-11T04:18:38.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\penal\\Desktop\\Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\penal\\Desktop\\Pe\u00F1aloza_Tipawan_Velgado_EmployeesRecordSystem\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-11T04:11:29.407Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
